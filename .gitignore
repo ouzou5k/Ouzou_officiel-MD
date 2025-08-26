@@ -1,1 +1,3 @@
-ouzou 
+node_modules/
+session.json
+.env
